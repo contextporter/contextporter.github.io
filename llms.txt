@@ -3,11 +3,11 @@
 ContextPorter is an independent Chrome extension for intentionally attaching browser context to messages sent to a user-selected AI provider from Chrome's Side Panel.
 
 Official pages:
-- Home: https://ademisler.github.io/contextporter.github.io/
-- How it works: https://ademisler.github.io/contextporter.github.io/how-it-works/
-- Privacy: https://ademisler.github.io/contextporter.github.io/privacy/
-- Support: https://ademisler.github.io/contextporter.github.io/support/
-- Terms: https://ademisler.github.io/contextporter.github.io/terms/
+- Home: https://contextporter.github.io/
+- How it works: https://contextporter.github.io/how-it-works/
+- Privacy: https://contextporter.github.io/privacy/
+- Support: https://contextporter.github.io/support/
+- Terms: https://contextporter.github.io/terms/
 
 Key product facts:
 - No ContextPorter application backend.
